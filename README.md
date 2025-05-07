@@ -11,7 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raulbana&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=raulbana&theme=github_dark_dimmed&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raulbana&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raulbana&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact&hide_progress=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=raulbana&theme=radical&no-frame=false&no-bg=true&margin-w=4)
