@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Compass.UOL<br>🌱 I’m currently learning Nest & Kotlin<br>⚡ Fun fact: i love Lego 
+🔭 I’m currently working at Compass.UOL<br>🌱 I’m currently learning Nest & Kotlin<br>⚡ Fun fact: i love LEGO 🧱
 
 
 ## 🌐 Socials:
